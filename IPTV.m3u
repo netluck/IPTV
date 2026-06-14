@@ -191,7 +191,7 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001420/index.m3u8
 
 
 ####################################################################################################################################################################################
-#EXTINF:-1 tvg-id="30" tvg-name="北京卫视4K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Beijing.png" group-title="卫视",北京卫视4K
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Beijing.png" group-title="卫视",北京卫视4K
 http://117.135.56.6:6060/cms001/ch00000090990000001510/index.m3u8
 ##########################http://117.135.56.6:6060/cms001/ch00000090990000001500/index.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Beijing.png" group-title="卫视",北京卫视
@@ -226,7 +226,7 @@ http://117.135.56.6:6060/cms001/ch00000090990000001067/index.m3u8
 http://117.135.56.6:6060/cms001/ch00000090990000001072/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="西藏藏语卫视" tvg-logo="https://live.fanmingming.com/tv/西藏藏语卫视.png" group-title="卫视",西藏藏语卫视(百视通-2M)
 http://gslbserv.itv.cmvideo.cn:80/5000000002000021549/index.m3u8?channel-id=bestzb&Contentid=5000000002000021549&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="56" tvg-name="四川卫视4K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan.png" group-title="卫视",四川卫视4K
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan.png" group-title="卫视",四川卫视4K
 http://117.135.56.6:6060/cms001/ch00000090990000001690/index.m3u8
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan.png" group-title="卫视",四川卫视
 http://117.135.56.6:6060/cms001/ch00000090990000001130/index.m3u8
@@ -241,7 +241,7 @@ http://117.135.56.6:6060/cms001/ch00000090990000001223/index.m3u8
 http://117.135.56.6:6060/cms001/ch00000090990000001070/index.m3u8
 #EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hebei.png" group-title="卫视",河北卫视
 http://117.135.56.6:6060/cms001/ch00000090990000001229/index.m3u8
-#EXTINF:-1 tvg-id="38" tvg-name="山东卫视4K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shandong.png" group-title="卫视",山东卫视4K
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shandong.png" group-title="卫视",山东卫视4K
 http://117.135.56.6:6060/cms001/ch00000090990000001582/index.m3u8
 #EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shandong.png" group-title="卫视",山东卫视
 http://117.135.56.6:6060/cms001/ch00000090990000001028/index.m3u8
@@ -250,17 +250,17 @@ http://117.135.56.6:6060/cms001/ch00000090990000001028/index.m3u8
 http://117.135.56.6:6060/cms001/ch00000090990000001222/index.m3u8
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Anhui.png" group-title="卫视",安徽卫视
 http://117.135.56.6:6060/cms001/ch00000090990000001037/index.m3u8
-#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视4K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jiangsu.png" group-title="卫视",江苏卫视4K
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jiangsu.png" group-title="卫视",江苏卫视4K
 http://117.135.56.6:6060/cms001/ch00000090990000001700/index.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jiangsu.png" group-title="卫视",江苏卫视
 http://117.135.56.6:6060/cms001/ch00000090990000001033/index.m3u8
-#EXTINF:-1 tvg-id="31" tvg-name="东方卫视4K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Dongfang.png" group-title="卫视",东方卫视4K
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Dongfang.png" group-title="卫视",东方卫视4K
 http://117.135.56.6:6060/cms001/ch00000090990000001641/index.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Dongfang.png" group-title="卫视",东方卫视
 http://117.135.56.6:6060/cms001/ch00000090990000001013/index.m3u8
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hubei.png" group-title="卫视",湖北卫视
 http://117.135.56.6:6060/cms001/ch00000090990000001027/index.m3u8
-#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视4K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hunan.png" group-title="卫视",湖南卫视4K
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hunan.png" group-title="卫视",湖南卫视4K
 http://117.135.56.6:6060/cms001/ch00000090990000001710/index.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hunan.png" group-title="卫视",湖南卫视
 http://117.135.56.6:6060/cms001/ch00000090990000001026/index.m3u8
@@ -273,9 +273,6 @@ http://117.135.56.6:6060/cms001/ch00000090990000001023/index.m3u8
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Dongnan.png" group-title="卫视",东南卫视
 http://117.135.56.6:6060/cms001/ch00000090990000001201/index.m3u8
 #EXTINF:-1 tvg-id="41" tvg-name="海峡卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Haixia.png" group-title="卫视",海峡卫视
-http://117.27.190.42:9998/tsfile/live/23283_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-id="41" tvg-name="海峡卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Haixia.png" group-title="卫视",海峡卫视
-http://xwh.8211321.com:5555/rtp/239.61.2.151:8894
 #EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Xiamen.png" group-title="卫视",厦门卫视
 #EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangxi.png" group-title="卫视",广西卫视
 http://117.135.56.6:6060/cms001/ch00000090990000001224/index.m3u8
@@ -283,13 +280,13 @@ http://117.135.56.6:6060/cms001/ch00000090990000001224/index.m3u8
 http://117.135.56.6:6060/cms001/ch00000090990000001183/index.m3u8
 #EXTINF:-1 tvg-id="72" tvg-name="三沙卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sansha.png" group-title="卫视",三沙卫视
 http://117.135.56.6:6060/cms001/ch00000090990000001185/index.m3u8
-#EXTINF:-1 tvg-id="33" tvg-name="广东卫视4K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong.png" group-title="卫视",广东卫视4K
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong.png" group-title="卫视",广东卫视4K
 http://117.135.56.6:6060/cms001/ch00000090990000001540/index.m3u8
 ##########################http://117.135.56.6:6060/cms001/ch00000090990000001550/index.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong.png" group-title="卫视",广东卫视
 http://117.135.56.6:6060/cms001/ch00000090990000001032/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong10.png" group-title="卫视",广东大湾区卫视
-#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视4K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen.png" group-title="卫视",深圳卫视4K
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen.png" group-title="卫视",深圳卫视4K
 http://117.135.56.6:6060/cms001/ch00000090990000001521/index.m3u8
 ##########################http://117.135.56.6:6060/cms001/ch00000090990000001560/index.m3u8
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen.png" group-title="卫视",深圳卫视
@@ -377,7 +374,7 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001030/index.m3u8
 
 
 ####################################################################################################################################################################################
-#EXTINF:-1 tvg-id="31" tvg-name="东方卫视4K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Dongfang.png" group-title="上海",东方卫视4K
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Dongfang.png" group-title="上海",东方卫视4K
 http://117.135.56.6:6060/cms001/ch00000090990000001641/index.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Dongfang.png" group-title="上海",东方卫视
 http://117.135.56.6:6060/cms001/ch00000090990000001013/index.m3u8
