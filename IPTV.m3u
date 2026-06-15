@@ -392,8 +392,6 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001017/index.m3u8
 http://117.135.56.6:6060/cms001/ch00000090990000001318/index.m3u8
 #EXTINF:-1 tvg-id="1258" tvg-name="东方财经" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/dfcj.png" group-title="上海",SiTV东方财经(IPv6)
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001318/index.m3u8
-#EXTINF:-1 tvg-id="1258" tvg-name="东方财经" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/dfcj.png" group-title="上海",SiTV东方财经(百视通-7M)
-http://gslbserv.itv.cmvideo.cn:80/5000000007000010003/index.m3u8?channel-id=bestzb&Contentid=5000000007000010003&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="1289" tvg-name="上海都市" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shanghai2.png" group-title="上海",都市频道
 http://117.135.56.6:6060/cms001/ch00000090990000001015/index.m3u8
 #EXTINF:-1 tvg-id="1289" tvg-name="上海都市" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shanghai2.png" group-title="上海",都市频道(IPv6)
@@ -407,7 +405,7 @@ http://117.135.56.6:6060/cms001/ch00000090990000001018/index.m3u8
 #EXTINF:-1 tvg-id="1287" tvg-name="五星体育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shanghai5.png" group-title="上海",五星体育(IPv6)
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8
 #EXTINF:-1 tvg-id="1264" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="上海",SiTV劲爆体育
-#EXTINF:-1 tvg-id="1857" tvg-name="魅力足球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" group-title="上海",SiTV魅力足球(百视通-7M)
+#EXTINF:-1 tvg-id="1857" tvg-name="魅力足球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" group-title="上海",SiTV魅力足球
 #EXTINF:-1 tvg-id="1263" tvg-name="新视觉" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/xsj.png" group-title="上海",SiTV新视觉
 #EXTINF:-1 tvg-id="1286" tvg-name="上视东方影视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shanghai3.png" group-title="上海",东方影视
 http://117.135.56.6:6060/cms001/ch00000090990000001016/index.m3u8
@@ -418,7 +416,7 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001016/index.m3u8
 http://117.135.56.6:6060/cms001/ch00000090990000001580/index.m3u8
 #EXTINF:-1 tvg-id="1644" tvg-name="CHC家庭影院" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="上海",CHC家庭影院
 http://117.135.56.6:6060/cms001/ch00000090990000001570/index.m3u8
-#EXTINF:-1 tvg-id="1644" tvg-name="CHC影迷电影" tvg-logo="https://pic1.kookong.com/images/logo/channel/CHC3/CHC3.jpg" group-title="上海",CHC影迷电影
+#EXTINF:-1 tvg-id="1969" tvg-name="CHC影迷电影" tvg-logo="https://pic1.kookong.com/images/logo/channel/CHC3/CHC3.jpg" group-title="上海",CHC影迷电影
 http://117.135.56.6:6060/cms001/ch00000090990000001581/index.m3u8
 #EXTINF:-1 tvg-id="1282" tvg-name="都市剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/dsjc.png" group-title="上海",SiTV都市剧场
 http://117.135.56.6:6060/cms001/ch00000090990000001203/index.m3u8
@@ -465,8 +463,7 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001192/index.m3u8
 http://117.135.56.6:6060/cms001/ch00000090990000001039/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="东方购物-2" tvg-logo="https://live.fanmingming.com/tv/东方购物.png" group-title="上海",东方购物-2
 http://117.135.56.6:6060/cms001/ch00000090990000001040/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="东方购物-3" tvg-logo="https://live.fanmingming.com/tv/东方购物.png" group-title="上海",东方购物-3(百视通-7M)
-http://gslbserv.itv.cmvideo.cn:80/5000000007000010004/index.m3u8?channel-id=bestzb&Contentid=5000000007000010004&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="" tvg-name="东方购物-3" tvg-logo="https://live.fanmingming.com/tv/东方购物.png" group-title="上海",东方购物-3
 ####################################################################################################################################################################################
 
 
