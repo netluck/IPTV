@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://liliu.serv00.net/epg/cn.xml,http://epg.51zmt.top:8000/e.xml,https://epg.136605.xyz/3days.xml,https://epg.zsdc.eu.org/t.xml,https://epg.pw/xmltv/epg_CN.xml"
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml,https://liliu.serv00.net/epg/cn.xml,https://epg.136605.xyz/3days.xml,https://epg.zsdc.eu.org/t.xml,https://epg.pw/xmltv/epg_CN.xml"
 
 ####################################################################################################################################################################################
 ##########################http://117.135.56.6:6060/cms001/
@@ -133,7 +133,7 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001328/index.m3u8
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001240/index.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视(IPv6)",CCTV-15音乐
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001338/index.m3u8
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16-4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视(IPv6)",CCTV-16奥林匹克4K
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视(IPv6)",CCTV-16奥林匹克4K
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001258/index.m3u8
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视(IPv6)",CCTV-16奥林匹克
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001248/index.m3u8
@@ -226,7 +226,7 @@ http://117.135.56.6:6060/cms001/ch00000090990000001298/index.m3u8
 http://117.135.56.6:6060/cms001/ch00000090990000001067/index.m3u8
 #EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Xizang.png" group-title="卫视",西藏卫视
 http://117.135.56.6:6060/cms001/ch00000090990000001072/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="西藏藏语卫视" tvg-logo="https://live.fanmingming.com/tv/西藏藏语卫视.png" group-title="卫视",西藏藏语卫视(百视通-2M)
+#EXTINF:-1 tvg-id="" tvg-name="西藏藏语卫视" tvg-logo="" group-title="卫视",西藏藏语卫视(百视通-2M)
 http://gslbserv.itv.cmvideo.cn:80/5000000002000021549/index.m3u8?channel-id=bestzb&Contentid=5000000002000021549&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan.png" group-title="卫视",四川卫视4K
 http://117.135.56.6:6060/cms001/ch00000090990000001690/index.m3u8
@@ -324,7 +324,7 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001450/index.m3u8
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001298/index.m3u8
 #EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shanxi.png" group-title="卫视(IPv6)",陕西卫视
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001067/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="陕西农林卫视" tvg-logo="https://live.fanmingming.com/tv/陕西农林.png" group-title="卫视(IPv6)",陕西农林卫视
+#EXTINF:-1 tvg-id="" tvg-name="陕西农林卫视" tvg-logo="" group-title="卫视(IPv6)",陕西农林卫视
 #EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Xizang.png" group-title="卫视(IPv6)",西藏卫视
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001072/index.m3u8
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan.png" group-title="卫视(IPv6)",四川卫视
@@ -382,9 +382,9 @@ http://117.135.56.6:6060/cms001/ch00000090990000001641/index.m3u8
 http://117.135.56.6:6060/cms001/ch00000090990000001013/index.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Dongfang.png" group-title="上海",东方卫视(IPv6)
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001013/index.m3u8
-#EXTINF:-1 tvg-id="1284" tvg-name="上海新闻综合" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shanghai1.png" group-title="上海",新闻综合
+#EXTINF:-1 tvg-id="1284" tvg-name="上视新闻频道" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shanghai1.png" group-title="上海",新闻综合
 http://117.135.56.6:6060/cms001/ch00000090990000001014/index.m3u8
-#EXTINF:-1 tvg-id="1284" tvg-name="上海新闻综合" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shanghai1.png" group-title="上海",新闻综合(IPv6)
+#EXTINF:-1 tvg-id="1284" tvg-name="上视新闻频道" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shanghai1.png" group-title="上海",新闻综合(IPv6)
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001014/index.m3u8
 #EXTINF:-1 tvg-id="1285" tvg-name="上海第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="上海",第一财经
 http://117.135.56.6:6060/cms001/ch00000090990000001017/index.m3u8
@@ -458,11 +458,11 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001196/index.m3u8
 http://117.135.56.6:6060/cms001/ch00000090990000001192/index.m3u8
 #EXTINF:-1 tvg-id="1283" tvg-name="游戏风云" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/yxfy.png" group-title="上海",游戏风云(IPv6)
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001192/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="东方购物-1" tvg-logo="https://live.fanmingming.com/tv/东方购物.png" group-title="上海",东方购物-1
+#EXTINF:-1 tvg-id="" tvg-name="东方购物-1" tvg-logo="" group-title="上海",东方购物-1
 http://117.135.56.6:6060/cms001/ch00000090990000001039/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="东方购物-2" tvg-logo="https://live.fanmingming.com/tv/东方购物.png" group-title="上海",东方购物-2
+#EXTINF:-1 tvg-id="" tvg-name="东方购物-2" tvg-logo="" group-title="上海",东方购物-2
 http://117.135.56.6:6060/cms001/ch00000090990000001040/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="东方购物-3" tvg-logo="https://live.fanmingming.com/tv/东方购物.png" group-title="上海",东方购物-3
+#EXTINF:-1 tvg-id="" tvg-name="东方购物-3" tvg-logo="" group-title="上海",东方购物-3
 ####################################################################################################################################################################################
 
 
@@ -501,8 +501,8 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001245/index.m3u8
 #EXTINF:-1 tvg-id="2060" tvg-name="峨眉电影" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan8.png" group-title="地方台",川-峨眉电影
 #EXTINF:-1 tvg-id="6573" tvg-name="汽摩" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/qmpd.png" group-title="地方台",重-汽摩
 #EXTINF:-1 tvg-id="" tvg-name="重庆影视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Chongqing1.png" group-title="地方台",重-重庆影视
-#EXTINF:-1 tvg-id="" tvg-name="重庆移动" tvg-logo="https://live.fanmingming.com/tv/重庆移动.png" group-title="地方台",重-重庆移动
-#EXTINF:-1 tvg-id="" tvg-name="重广融媒" tvg-logo="https://live.fanmingming.com/tv/重广融媒.png" group-title="地方台",重-重广融媒
+#EXTINF:-1 tvg-id="" tvg-name="重庆移动" tvg-logo="" group-title="地方台",重-重庆移动
+#EXTINF:-1 tvg-id="" tvg-name="重广融媒" tvg-logo="" group-title="地方台",重-重广融媒
 #EXTINF:-1 tvg-id="" tvg-name="山西经济" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shanxi_1.png" group-title="地方台",晋-山西经济与科技
 #EXTINF:-1 tvg-id="" tvg-name="山西影视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shanxi_2.png" group-title="地方台",晋-山西影视
 #EXTINF:-1 tvg-id="" tvg-name="山西社会与法治" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shanxi_3.png" group-title="地方台",晋-山西社会与法治
@@ -542,21 +542,21 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001235/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="湖南娱乐" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan5.png" group-title="地方台",湘-湖南娱乐
 #EXTINF:-1 tvg-id="" tvg-name="湖南国际" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan4.png" group-title="地方台",湘-湖南国际
 #EXTINF:-1 tvg-id="" tvg-name="湖南教育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan8.png" group-title="地方台",湘-湖南教育
-#EXTINF:-1 tvg-id="" tvg-name="浙江公共新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Zhejiang5.png" group-title="地方台",浙-浙江公共新闻
+#EXTINF:-1 tvg-id="661" tvg-name="浙江公共新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Zhejiang5.png" group-title="地方台",浙-浙江公共新闻
 https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="浙江国际" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Zhejiang7.png" group-title="地方台",浙-浙江国际
 https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="浙江少儿" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Zhejiang6.png" group-title="地方台",浙-浙江少儿
+#EXTINF:-1 tvg-id="662" tvg-name="浙江少儿" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Zhejiang6.png" group-title="地方台",浙-浙江少儿
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="浙江教科影视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Zhejiang3.png" group-title="地方台",浙-浙江科教影视
+#EXTINF:-1 tvg-id="659" tvg-name="浙江教科影视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Zhejiang3.png" group-title="地方台",浙-浙江科教影视
 https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="浙江数码时代" tvg-logo="https://live.fanmingming.com/tv/浙江数码时代.png" group-title="地方台",浙-浙江数码时代
+#EXTINF:-1 tvg-id="" tvg-name="之江纪录" tvg-logo="" group-title="地方台",浙-之江纪录
 https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="浙江民生休闲" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Zhejiang4.png" group-title="地方台",浙-浙江民生休闲
+#EXTINF:-1 tvg-id="660" tvg-name="浙江民生休闲" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Zhejiang4.png" group-title="地方台",浙-浙江民生休闲
 https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="浙江经济生活" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Zhejiang2.png" group-title="地方台",浙-浙江经济生活
 https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="浙江钱江都市" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Zhejiang1.png" group-title="地方台",浙-浙江钱江都市
+#EXTINF:-1 tvg-id="658" tvg-name="浙江钱江都市" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Zhejiang1.png" group-title="地方台",浙-浙江钱江都市
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="地方台",粤-嘉佳卡通
 #EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong9.png" group-title="地方台",粤-广东珠江
@@ -574,7 +574,7 @@ https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="海南公共" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hainan3.png" group-title="地方台",海-海南公共
 #EXTINF:-1 tvg-id="" tvg-name="海南少儿" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hainan5.png" group-title="地方台",海-海南少儿
 #EXTINF:-1 tvg-id="" tvg-name="海南文旅" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hainan4.png" group-title="地方台",海-海南文旅
-#EXTINF:-1 tvg-id="" tvg-name="海南自贸" tvg-logo="https://live.fanmingming.com/tv/海南自贸.png" group-title="地方台",海-海南自贸
+#EXTINF:-1 tvg-id="" tvg-name="海南自贸" tvg-logo="" group-title="地方台",海-海南自贸
 #EXTINF:-1 tvg-id="" tvg-name="新海南" tvg-logo="" group-title="地方台",海-新海南
 ####################################################################################################################################################################################
 
@@ -1077,19 +1077,19 @@ https://gcalic.v.myalicdn.com/gc/cntv549-zbzg_1/index.m3u8
 
 
 ####################################################################################################################################################################################
-#EXTINF:-1 tvg-id="" tvg-name="华语影院" tvg-logo="https://live.fanmingming.com/tv/百视通.png" group-title="百视通",华语影院
-#EXTINF:-1 tvg-id="" tvg-name="星光影院" tvg-logo="https://live.fanmingming.com/tv/百视通.png" group-title="百视通",星光影院
-#EXTINF:-1 tvg-id="" tvg-name="全球大片" tvg-logo="https://live.fanmingming.com/tv/百视通.png" group-title="百视通",全球大片
-#EXTINF:-1 tvg-id="" tvg-name="谍战剧场" tvg-logo="https://live.fanmingming.com/tv/百视通.png" group-title="百视通",谍战剧场
-#EXTINF:-1 tvg-id="" tvg-name="热门剧场" tvg-logo="https://live.fanmingming.com/tv/百视通.png" group-title="百视通",热门剧场
-#EXTINF:-1 tvg-id="" tvg-name="热门综艺" tvg-logo="https://live.fanmingming.com/tv/百视通.png" group-title="百视通",热门综艺
-#EXTINF:-1 tvg-id="" tvg-name="看天下精选" tvg-logo="https://live.fanmingming.com/tv/百视通.png" group-title="百视通",看天下精选
-#EXTINF:-1 tvg-id="" tvg-name="百变课堂" tvg-logo="https://live.fanmingming.com/tv/百视通.png" group-title="百视通",百变课堂
-#EXTINF:-1 tvg-id="" tvg-name="青春动漫" tvg-logo="https://live.fanmingming.com/tv/百视通.png" group-title="百视通",青春动漫
-#EXTINF:-1 tvg-id="" tvg-name="宝宝动画" tvg-logo="https://live.fanmingming.com/tv/百视通.png" group-title="百视通",宝宝动画
-#EXTINF:-1 tvg-id="85" tvg-name="电竞天堂" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dianjingtiantang.png" group-title="百视通",电竞天堂
-#EXTINF:-1 tvg-id="" tvg-name="戏曲精选" tvg-logo="https://live.fanmingming.com/tv/百视通.png" group-title="百视通",戏曲精选
-#EXTINF:-1 tvg-id="" tvg-name="健康养生" tvg-logo="https://live.fanmingming.com/tv/百视通.png" group-title="百视通",健康养生
+#EXTINF:-1 tvg-id="" tvg-name="华语影院" tvg-logo="" group-title="百视通",华语影院
+#EXTINF:-1 tvg-id="" tvg-name="星光影院" tvg-logo="" group-title="百视通",星光影院
+#EXTINF:-1 tvg-id="" tvg-name="全球大片" tvg-logo="",全球大片
+#EXTINF:-1 tvg-id="" tvg-name="谍战剧场" tvg-logo="",谍战剧场
+#EXTINF:-1 tvg-id="" tvg-name="热门剧场" tvg-logo="",热门剧场
+#EXTINF:-1 tvg-id="" tvg-name="热门综艺" tvg-logo="",热门综艺
+#EXTINF:-1 tvg-id="" tvg-name="看天下精选" tvg-logo="" group-title="百视通",看天下精选
+#EXTINF:-1 tvg-id="" tvg-name="百变课堂" tvg-logo="" group-title="百视通",百变课堂
+#EXTINF:-1 tvg-id="" tvg-name="青春动漫" tvg-logo="" group-title="百视通",青春动漫
+#EXTINF:-1 tvg-id="" tvg-name="宝宝动画" tvg-logo="" group-title="百视通",宝宝动画
+#EXTINF:-1 tvg-id="85" tvg-name="电竞天堂" tvg-logo="" group-title="百视通",电竞天堂
+#EXTINF:-1 tvg-id="" tvg-name="戏曲精选" tvg-logo="" group-title="百视通",戏曲精选
+#EXTINF:-1 tvg-id="" tvg-name="健康养生" tvg-logo="" group-title="百视通",健康养生
 ####################################################################################################################################################################################
 
 
@@ -1121,7 +1121,7 @@ https://gcalic.v.myalicdn.com/gc/cntv549-zbzg_1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NewTV炫舞未来" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV16.png" group-title="易视腾",NewTV炫舞未来
 #EXTINF:-1 tvg-id="" tvg-name="NewTV怡伴健康" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV11.png" group-title="易视腾",NewTV怡伴健康
 #EXTINF:-1 tvg-id="" tvg-name="NewTV农业致富" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV08.png" group-title="易视腾",NewTV农业致富
-#EXTINF:-1 tvg-id="" tvg-name="NewTV武博世界" tvg-logo="https://live.fanmingming.com/tv/NEWTV武博世界.png" group-title="易视腾",NewTV武博世界
+#EXTINF:-1 tvg-id="" tvg-name="NewTV武博世界" tvg-logo="" group-title="易视腾",NewTV武博世界
 #EXTINF:-1 tvg-id="" tvg-name="NewTV中国功夫" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV07.png" group-title="易视腾",NewTV中国功夫
 #EXTINF:-1 tvg-id="" tvg-name="NewTV海外剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/NewTV06.png" group-title="易视腾",NewTV海外剧场
 ####################################################################################################################################################################################
