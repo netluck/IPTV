@@ -1,97 +1,76 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e1.xml.gz,http://e.erw.cc/e.xml.gz,https://liliu.serv00.net/epg/cn.xml,https://epg.catvod.com/epg.xml,https://epg.136605.xyz/3days.xml,https://epg.zsdc.eu.org/t.xml,https://epg.pw/xmltv/epg_CN.xml"
 
 ####################################################################################################################################################################################
-##########################http://117.135.56.6:6060/cms001/
 ##########################http://iptvrr.sh.chinamobile.com:6060/cms001/
 ##########################http://iptvrr1.sh.chinamobile.com:6060/cms001/
-##########################http://39.134.87.62/PLTV/11/224/
-##########################http://39.134.87.62/000000001000/
+##########################http://117.135.56.6:6060/cms001/
 ##########################http://39.134.91.132:8112/000000000000/
 ####################################################################################################################################################################################
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1综合
-http://117.135.56.6:6060/cms001/ch00000090990000001022/index.m3u8
-##########################http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001022/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001022/index.m3u8
 ##########################http://iptvrr1.sh.chinamobile.com:6060/cms001/ch00000090990000001022/index.m3u8
-##########################http://39.134.87.62/000000001000/5000000010000030810/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2财经
-http://117.135.56.6:6060/cms001/ch00000090990000001220/index.m3u8
-##########################http://39.134.87.62/000000001000/5000000011000031101/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001220/index.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV-3综艺
-http://117.135.56.6:6060/cms001/ch00000090990000001186/index.m3u8
-##########################http://39.134.87.62/000000001000/5000000004000008883/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001186/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4中文国际
-http://117.135.56.6:6060/cms001/ch00000090990000001221/index.m3u8
-##########################http://39.134.87.62/000000001000/5000000011000031102/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001221/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5体育
-http://117.135.56.6:6060/cms001/ch00000090990000001187/index.m3u8
-##########################http://39.134.87.62/000000001000/5000000004000008885/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001187/index.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV-5+体育
 http://39.134.91.132:8112/000000000000/5000000011000031127/1.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6电影
-http://117.135.56.6:6060/cms001/ch00000090990000001188/index.m3u8
-##########################http://39.134.87.62/000000001000/5000000004000008886/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001188/index.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV-7国防军事
-http://117.135.56.6:6060/cms001/ch00000090990000001236/index.m3u8
-##########################http://39.134.87.62/000000001000/5000000011000031104/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001236/index.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV-8电视剧
-http://117.135.56.6:6060/cms001/ch00000090990000001189/index.m3u8
-##########################http://39.134.87.62/000000001000/5000000004000008888/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001189/index.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV-9纪实
-http://117.135.56.6:6060/cms001/ch00000090990000001237/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001237/index.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV-10科教
-http://117.135.56.6:6060/cms001/ch00000090990000001238/index.m3u8
-##########################http://39.134.87.62/000000001000/5000000010000016738/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001238/index.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV-11戏曲
-http://117.135.56.6:6060/cms001/ch00000090990000001309/index.m3u8
-##################http://39.134.87.62/PLTV/11/224/3221226145/index.m3u8
-##################http://39.134.87.62/000000001000/5000000011000031106/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001309/index.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV-12社会与法
-http://117.135.56.6:6060/cms001/ch00000090990000001239/index.m3u8
-##################http://39.134.87.62/000000001000/5000000011000031107/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001239/index.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13新闻
-http://117.135.56.6:6060/cms001/ch00000090990000001328/index.m3u8
-##################http://39.134.87.62/PLTV/11/224/3221226128/index.m3u8
-##################http://39.134.87.62/000000001000/5000000011000031108/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001328/index.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV-14少儿
-http://117.135.56.6:6060/cms001/ch00000090990000001240/index.m3u8
-##################http://39.134.87.62/000000001000/5000000010000023358/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001240/index.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15音乐
-http://117.135.56.6:6060/cms001/ch00000090990000001338/index.m3u8
-##################http://39.134.87.62/PLTV/11/224/3221226147/index.m3u8
-##################http://39.134.87.62/000000001000/5000000011000031109/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001338/index.m3u8
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16奥林匹克4K
-http://117.135.56.6:6060/cms001/ch00000090990000001258/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001258/index.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17农村农业
-http://117.135.56.6:6060/cms001/ch00000090990000001241/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001241/index.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV4K
-http://117.135.56.6:6060/cms001/ch00000090990000001451/index.m3u8
-#EXTINF:-1 tvg-id="5006" tvg-name="CCTV8K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV8K.png" group-title="央视(IPv6)",CCTV8K
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001451/index.m3u8
+#EXTINF:-1 tvg-id="5006" tvg-name="CCTV8K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTV8K.png" group-title="央视",CCTV8K
 #EXTINF:-1 tvg-id="" tvg-name="电视指南" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVdszn.png" group-title="央视-副",CCTV电视指南
 #EXTINF:-1 tvg-id="1647" tvg-name="第一剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVdyjc.png" group-title="央视-副",CCTV第一剧场
-http://117.135.56.6:6060/cms001/ch00000090990000001621/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001621/index.m3u8
 #EXTINF:-1 tvg-id="1648" tvg-name="风云剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyyy.png" group-title="央视-副",CCTV风云剧场
-http://117.135.56.6:6060/cms001/ch00000090990000001650/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001650/index.m3u8
 #EXTINF:-1 tvg-id="1651" tvg-name="怀旧剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVhjjc.png" group-title="央视-副",CCTV怀旧剧场
-http://117.135.56.6:6060/cms001/ch00000090990000001640/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001640/index.m3u8
 #EXTINF:-1 tvg-id="1424" tvg-name="风云足球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyzq.png" group-title="央视-副",CCTV风云足球
-http://117.135.56.6:6060/cms001/ch00000090990000001590/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001590/index.m3u8
 #EXTINF:-1 tvg-id="1657" tvg-name="高尔夫网球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVgefwq.png" group-title="央视-副",CCTV高尔夫网球
-http://117.135.56.6:6060/cms001/ch00000090990000001630/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001630/index.m3u8
 #EXTINF:-1 tvg-id="1673" tvg-name="央视台球" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVystq.png" group-title="央视-副",CCTV央视台球
-http://117.135.56.6:6060/cms001/ch00000090990000001600/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001600/index.m3u8
 #EXTINF:-1 tvg-id="1652" tvg-name="兵器科技" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVbqkj.png" group-title="央视-副",CCTV兵器科技
-http://117.135.56.6:6060/cms001/ch00000090990000001610/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001610/index.m3u8
 #EXTINF:-1 tvg-id="1649" tvg-name="世界地理" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVsjdl.png" group-title="央视-副",CCTV世界地理
-http://117.135.56.6:6060/cms001/ch00000090990000001620/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001620/index.m3u8
 #EXTINF:-1 tvg-id="1658" tvg-name="文化精品" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVyswhjp.png" group-title="央视-副",CCTV文化精品
-http://117.135.56.6:6060/cms001/ch00000090990000001670/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001670/index.m3u8
 #EXTINF:-1 tvg-id="1653" tvg-name="女性时尚" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVnxss.png" group-title="央视-副",CCTV女性时尚
-http://117.135.56.6:6060/cms001/ch00000090990000001571/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001571/index.m3u8
 #EXTINF:-1 tvg-id="1646" tvg-name="风云音乐" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CCTVfyyy.png" group-title="央视-副",CCTV风云音乐
-http://117.135.56.6:6060/cms001/ch00000090990000001660/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001660/index.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTN.png" group-title="央视-副",CGTN
-##########################http://117.135.56.6:6060/cms001/ch00000090990000001058/index.m3u8
-##########################http://39.134.87.62/000000001000/4810873738577663591/index.m3u8
+##########################http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001058/index.m3u8
 https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 ##########################https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 #EXTINF:-1 tvg-id="296" tvg-name="CGTN纪录" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CGTNjilu.png" group-title="央视-副",CGTN纪录
@@ -102,20 +81,18 @@ https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 #EXTINF:-1 tvg-id="1683" tvg-name="老故事" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CNDlgs.png" group-title="央视-副",中央新影-老故事
 #EXTINF:-1 tvg-id="1677" tvg-name="发现之旅" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CNDfxzl.png" group-title="央视-副",中央新影-发现之旅
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CETV1.png" group-title="央视-副",中国教育1台
-http://117.135.56.6:6060/cms001/ch00000090990000001020/index.m3u8
-##########################http://39.134.87.62/000000001000/5000000002000002652/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001020/index.m3u8
 #EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CETV2.png" group-title="央视-副",中国教育2台
-http://117.135.56.6:6060/cms001/ch00000090990000001226/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001226/index.m3u8
 #EXTINF:-1 tvg-id="75" tvg-name="中国教育3台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CETV3.png" group-title="央视-副",中国教育3台
 #EXTINF:-1 tvg-id="1860" tvg-name="中国教育4台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/CETV4.png" group-title="央视-副",中国教育4台
-http://117.135.56.6:6060/cms001/ch00000090990000001348/index.m3u8
-##########################http://39.134.87.62/000000001000/5000000006000012123/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001348/index.m3u8
 #EXTINF:-1 tvg-id="1670" tvg-name="早期教育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE33.jpg" group-title="央视-副",早期教育
-http://117.135.56.6:6060/cms001/ch00000090990000001680/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001680/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="央广购物-1" tvg-logo="https://logo.catvod.com/央广购物.png" group-title="央视-副",央广购物-1
-http://117.135.56.6:6060/cms001/ch00000090990000001142/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001142/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="央广购物-2" tvg-logo="https://logo.catvod.com/央广购物.png" group-title="央视-副",央广购物-2
-http://117.135.56.6:6060/cms001/ch00000090990000001420/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001420/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV中视购物" tvg-logo="" group-title="央视-副",CCTV中视购物
 ####################################################################################################################################################################################
 
@@ -212,139 +189,104 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001420/index.m3u8
 
 ####################################################################################################################################################################################
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Beijing.png" group-title="卫视",北京卫视4K
-http://117.135.56.6:6060/cms001/ch00000090990000001510/index.m3u8
-##########################http://117.135.56.6:6060/cms001/ch00000090990000001500/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001510/index.m3u8
+##########################http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001500/index.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Beijing.png" group-title="卫视",北京卫视
-http://117.135.56.6:6060/cms001/ch00000090990000001029/index.m3u8
-##########################http://39.134.87.62/000000001000/5000000010000011502/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001029/index.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Heilongjiang.png" group-title="卫视",黑龙江卫视
-http://117.135.56.6:6060/cms001/ch00000090990000001031/index.m3u8
-##########################http://39.134.87.62/000000001000/5000000010000031107/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001031/index.m3u8
 #EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jilin.png" group-title="卫视",吉林卫视
-http://117.135.56.6:6060/cms001/ch00000090990000001225/index.m3u8
-##########################http://39.134.87.62/000000001000/5000000011000031117/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001225/index.m3u8
 #EXTINF:-1 tvg-id="63" tvg-name="延边卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Yanbian.png" group-title="卫视",延边卫视
-http://117.135.56.6:6060/cms001/ch00000090990000001470/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001470/index.m3u8
 #EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Liaoning.png" group-title="卫视",辽宁卫视
-http://117.135.56.6:6060/cms001/ch00000090990000001035/index.m3u8
-##########################http://39.134.87.62/000000001000/5000000001000008940/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001035/index.m3u8
 #EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Tianjin.png" group-title="卫视",天津卫视
-http://117.135.56.6:6060/cms001/ch00000090990000001036/index.m3u8
-##########################http://39.134.87.62/000000001000/5000000001000030788/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001036/index.m3u8
 #EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Neimeng.png" group-title="卫视",内蒙古卫视
-http://117.135.56.6:6060/cms001/ch00000090990000001068/index.m3u8
-##########################http://39.134.87.62/000000001000/7331079758781182663/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001068/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="内蒙古蒙语卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Neimeng.png" group-title="卫视",内蒙古蒙语卫视
 #EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Xinjiang.png" group-title="卫视",新疆卫视
-http://117.135.56.6:6060/cms001/ch00000090990000001065/index.m3u8
-##########################http://39.134.87.62/000000001000/5000000006000040018/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001065/index.m3u8
 #EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Bingtuan.png" group-title="卫视",兵团卫视
-http://117.135.56.6:6060/cms001/ch00000090990000001066/index.m3u8
-##########################http://39.134.87.62/000000001000/5000000006000040020/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001066/index.m3u8
 #EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Ningxia.png" group-title="卫视",宁夏卫视
-http://117.135.56.6:6060/cms001/ch00000090990000001074/index.m3u8
-##########################http://39.134.87.62/000000001000/5000000006000040022/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001074/index.m3u8
 #EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Qinghai.png" group-title="卫视",青海卫视
-http://117.135.56.6:6060/cms001/ch00000090990000001450/index.m3u8
-##########################http://39.134.87.62/000000001000/5000000006000040015/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001450/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="青海安多卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Anduo.png" group-title="卫视",青海安多卫视
 #EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Gansu.png" group-title="卫视",甘肃卫视
-http://117.135.56.6:6060/cms001/ch00000090990000001298/index.m3u8
-##########################http://39.134.87.62/000000001000/5000000006000040021/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001298/index.m3u8
 #EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shanxi.png" group-title="卫视",陕西卫视
-http://117.135.56.6:6060/cms001/ch00000090990000001067/index.m3u8
-##########################http://39.134.87.62/000000001000/5000000006000040017/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001067/index.m3u8
 #EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Xizang.png" group-title="卫视",西藏卫视
-http://117.135.56.6:6060/cms001/ch00000090990000001072/index.m3u8
-##########################http://39.134.87.62/000000001000/5381760837640571168/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="西藏藏语卫视" tvg-logo="" group-title="卫视",西藏藏语卫视(百视通-2M)
-http://gslbserv.itv.cmvideo.cn:80/5000000002000021549/index.m3u8?channel-id=bestzb&Contentid=5000000002000021549&livemode=1&stbId=3
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001072/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="西藏藏语卫视" tvg-logo="" group-title="卫视",西藏藏语卫视
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan.png" group-title="卫视",四川卫视4K
-http://117.135.56.6:6060/cms001/ch00000090990000001690/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001690/index.m3u8
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan.png" group-title="卫视",四川卫视
-http://117.135.56.6:6060/cms001/ch00000090990000001130/index.m3u8
-##########################http://39.134.87.62/000000001000/5000000004000006119/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001130/index.m3u8
 #EXTINF:-1 tvg-id="70" tvg-name="四川康巴卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Kangba.png" group-title="卫视",四川康巴卫视
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Chongqing.png" group-title="卫视",重庆卫视
-http://117.135.56.6:6060/cms001/ch00000090990000001129/index.m3u8
-##########################http://39.134.87.62/000000001000/5000000004000025797/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001129/index.m3u8
 #EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guizhou.png" group-title="卫视",贵州卫视
-http://117.135.56.6:6060/cms001/ch00000090990000001184/index.m3u8
-##########################http://39.134.87.62/000000001000/5000000004000025843/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001184/index.m3u8
 #EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Yunnan.png" group-title="卫视",云南卫视
-http://117.135.56.6:6060/cms001/ch00000090990000001223/index.m3u8
-##########################http://39.134.87.62/000000001000/5000000011000031120/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001223/index.m3u8
 #EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shanxi_.png" group-title="卫视",山西卫视
-http://117.135.56.6:6060/cms001/ch00000090990000001070/index.m3u8
-##########################http://39.134.87.62/000000001000/5000000006000040023/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001070/index.m3u8
 #EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hebei.png" group-title="卫视",河北卫视
-http://117.135.56.6:6060/cms001/ch00000090990000001229/index.m3u8
-##########################http://39.134.87.62/000000001000/5000000006000040016/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001229/index.m3u8
 #EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shandong.png" group-title="卫视",山东卫视4K
-http://117.135.56.6:6060/cms001/ch00000090990000001582/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001582/index.m3u8
 #EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shandong.png" group-title="卫视",山东卫视
-http://117.135.56.6:6060/cms001/ch00000090990000001028/index.m3u8
-##########################http://39.134.87.62/000000001000/5000000010000027763/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001028/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="山东教育卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shandongjy.png" group-title="卫视",山东教育卫视
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Henan.png" group-title="卫视",河南卫视
-http://117.135.56.6:6060/cms001/ch00000090990000001222/index.m3u8
-##########################http://39.134.87.62/000000001000/5000000011000031119/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001222/index.m3u8
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Anhui.png" group-title="卫视",安徽卫视
-http://117.135.56.6:6060/cms001/ch00000090990000001037/index.m3u8
-##########################http://39.134.87.62/000000001000/5000000001000027288/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001037/index.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jiangsu.png" group-title="卫视",江苏卫视4K
-http://117.135.56.6:6060/cms001/ch00000090990000001700/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001700/index.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jiangsu.png" group-title="卫视",江苏卫视
-http://117.135.56.6:6060/cms001/ch00000090990000001033/index.m3u8
-##########################http://39.134.87.62/000000001000/5000000010000018509/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001033/index.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Dongfang.png" group-title="卫视",东方卫视4K
-http://117.135.56.6:6060/cms001/ch00000090990000001641/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001641/index.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Dongfang.png" group-title="卫视",东方卫视
-http://117.135.56.6:6060/cms001/ch00000090990000001013/index.m3u8
-##########################http://39.134.87.62/000000001000/5000000010000032246/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001013/index.m3u8
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hubei.png" group-title="卫视",湖北卫视
-http://117.135.56.6:6060/cms001/ch00000090990000001027/index.m3u8
-##########################http://39.134.87.62/000000001000/5000000010000022140/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001027/index.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hunan.png" group-title="卫视",湖南卫视4K
-http://117.135.56.6:6060/cms001/ch00000090990000001710/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001710/index.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hunan.png" group-title="卫视",湖南卫视
-http://117.135.56.6:6060/cms001/ch00000090990000001026/index.m3u8
-##########################http://39.134.87.62/000000001000/5000000010000030452/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001026/index.m3u8
 #EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Jiangxi.png" group-title="卫视",江西卫视
-http://117.135.56.6:6060/cms001/ch00000090990000001034/index.m3u8
-##########################http://39.134.87.62/000000001000/5000000001000032154/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001034/index.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视4K" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Zhejiang.png" group-title="卫视",浙江卫视4K
-http://117.135.56.6:6060/cms001/ch00000090990000001720/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001720/index.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Zhejiang.png" group-title="卫视",浙江卫视
-http://117.135.56.6:6060/cms001/ch00000090990000001023/index.m3u8
-##########################http://39.134.87.62/000000001000/5000000010000017320/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001023/index.m3u8
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Dongnan.png" group-title="卫视",东南卫视
-http://117.135.56.6:6060/cms001/ch00000090990000001201/index.m3u8
-##########################http://39.134.87.62/000000001000/5000000001000005829/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001201/index.m3u8
 #EXTINF:-1 tvg-id="41" tvg-name="海峡卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Haixia.png" group-title="卫视",海峡卫视
 #EXTINF:-1 tvg-id="68" tvg-name="厦门卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Xiamen.png" group-title="卫视",厦门卫视
-http://39.134.87.62/000000001000/5084893189220221988/index.m3u8
 #EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangxi.png" group-title="卫视",广西卫视
-http://117.135.56.6:6060/cms001/ch00000090990000001224/index.m3u8
-##########################http://39.134.87.62/000000001000/5000000011000031118/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001224/index.m3u8
 #EXTINF:-1 tvg-id="37" tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Hainan.png" group-title="卫视",海南卫视
-http://117.135.56.6:6060/cms001/ch00000090990000001183/index.m3u8
-##########################http://39.134.87.62/000000001000/5000000004000006211/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001183/index.m3u8
 #EXTINF:-1 tvg-id="72" tvg-name="三沙卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sansha.png" group-title="卫视",三沙卫视
-http://117.135.56.6:6060/cms001/ch00000090990000001185/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001185/index.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong.png" group-title="卫视",广东卫视4K
-http://117.135.56.6:6060/cms001/ch00000090990000001540/index.m3u8
-##########################http://117.135.56.6:6060/cms001/ch00000090990000001550/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001540/index.m3u8
+##########################http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001550/index.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong.png" group-title="卫视",广东卫视
-http://117.135.56.6:6060/cms001/ch00000090990000001032/index.m3u8
-##########################http://39.134.87.62/000000001000/5000000010000030417/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001032/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong10.png" group-title="卫视",广东大湾区卫视
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen.png" group-title="卫视",深圳卫视4K
-http://117.135.56.6:6060/cms001/ch00000090990000001521/index.m3u8
-##########################http://117.135.56.6:6060/cms001/ch00000090990000001560/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001521/index.m3u8
+##########################http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001560/index.m3u8
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Shenzhen.png" group-title="卫视",深圳卫视
-http://117.135.56.6:6060/cms001/ch00000090990000001030/index.m3u8
-##########################http://39.134.87.62/000000001000/5000000010000024026/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001030/index.m3u8
 ####################################################################################################################################################################################
 
 
@@ -449,116 +391,98 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001030/index.m3u8
 
 ####################################################################################################################################################################################
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Dongfang.png" group-title="上海",东方卫视4K
-http://117.135.56.6:6060/cms001/ch00000090990000001641/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001641/index.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Dongfang.png" group-title="上海",东方卫视
-http://117.135.56.6:6060/cms001/ch00000090990000001013/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001013/index.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Dongfang.png" group-title="上海",东方卫视(IPv6)
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001013/index.m3u8
 #EXTINF:-1 tvg-id="1284" tvg-name="上视新闻频道" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shanghai1.png" group-title="上海",新闻综合
-http://117.135.56.6:6060/cms001/ch00000090990000001014/index.m3u8
-##########################http://39.134.87.62/000000001000/5000000011000031110/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001014/index.m3u8
 #EXTINF:-1 tvg-id="1284" tvg-name="上视新闻频道" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shanghai1.png" group-title="上海",新闻综合(IPv6)
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001014/index.m3u8
 #EXTINF:-1 tvg-id="1285" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="上海",第一财经
-http://117.135.56.6:6060/cms001/ch00000090990000001017/index.m3u8
-##########################http://39.134.87.62/000000001000/5000000010000027146/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001017/index.m3u8
 #EXTINF:-1 tvg-id="1285" tvg-name="第一财经" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/diyicaijing.png" group-title="上海",第一财经(IPv6)
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001017/index.m3u8
 #EXTINF:-1 tvg-id="1258" tvg-name="东方财经" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/dfcj.png" group-title="上海",东方财经
-http://117.135.56.6:6060/cms001/ch00000090990000001318/index.m3u8
-##########################http://39.134.87.62/000000001000/5000000007000010003/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001318/index.m3u8
 #EXTINF:-1 tvg-id="1258" tvg-name="东方财经" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/dfcj.png" group-title="上海",东方财经(IPv6)
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001318/index.m3u8
 #EXTINF:-1 tvg-id="1289" tvg-name="上海都市" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shanghai2.png" group-title="上海",上海都市
-http://117.135.56.6:6060/cms001/ch00000090990000001015/index.m3u8
-##########################http://39.134.87.62/000000001000/5000000010000018926/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001015/index.m3u8
 #EXTINF:-1 tvg-id="1289" tvg-name="上海都市" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shanghai2.png" group-title="上海",上海都市(IPv6)
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001015/index.m3u8
 #EXTINF:-1 tvg-id="1281" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="上海",生活时尚
-http://117.135.56.6:6060/cms001/ch00000090990000001199/index.m3u8
-##########################http://39.134.87.62/000000001000/5000000002000019634/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001199/index.m3u8
 #EXTINF:-1 tvg-id="1281" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="上海",生活时尚(IPv6)
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001199/index.m3u8
 #EXTINF:-1 tvg-id="1287" tvg-name="五星体育频道" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shanghai5.png" group-title="上海",五星体育
-http://117.135.56.6:6060/cms001/ch00000090990000001018/index.m3u8
-##########################http://39.134.87.62/000000001000/5000000010000017540/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001018/index.m3u8
 #EXTINF:-1 tvg-id="1287" tvg-name="五星体育频道" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shanghai5.png" group-title="上海",五星体育(IPv6)
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8
 #EXTINF:-1 tvg-id="1857" tvg-name="魅力足球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" group-title="上海",魅力足球
 #EXTINF:-1 tvg-id="1263" tvg-name="新视觉" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/xsj.png" group-title="上海",新视觉
 #EXTINF:-1 tvg-id="1286" tvg-name="东方影视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shanghai3.png" group-title="上海",东方影视
-http://117.135.56.6:6060/cms001/ch00000090990000001016/index.m3u8
-##########################http://39.134.87.62/000000001000/5000000010000032212/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001016/index.m3u8
 #EXTINF:-1 tvg-id="1286" tvg-name="东方影视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shanghai3.png" group-title="上海",东方影视(IPv6)
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001016/index.m3u8
 #EXTINF:-1 tvg-id="1639" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="上海",CHC高清电影
 #EXTINF:-1 tvg-id="1643" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="上海",CHC动作电影
-http://117.135.56.6:6060/cms001/ch00000090990000001580/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001580/index.m3u8
 #EXTINF:-1 tvg-id="1644" tvg-name="CHC家庭影院" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="上海",CHC家庭影院
-http://117.135.56.6:6060/cms001/ch00000090990000001570/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001570/index.m3u8
 #EXTINF:-1 tvg-id="1969" tvg-name="CHC影迷电影" tvg-logo="https://pic1.kookong.com/images/logo/channel/CHC3/CHC3.jpg" group-title="上海",CHC影迷电影
-http://117.135.56.6:6060/cms001/ch00000090990000001581/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001581/index.m3u8
 #EXTINF:-1 tvg-id="1282" tvg-name="都市剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/dsjc.png" group-title="上海",都市剧场
-http://117.135.56.6:6060/cms001/ch00000090990000001203/index.m3u8
-##########################http://39.134.87.62/000000001000/5000000011000031111/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001203/index.m3u8
 #EXTINF:-1 tvg-id="1282" tvg-name="都市剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/dsjc.png" group-title="上海",都市剧场(IPv6)
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001203/index.m3u8
 #EXTINF:-1 tvg-id="1277" tvg-name="欢笑剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/hxjchd.png" group-title="上海",多彩文体
-http://117.135.56.6:6060/cms001/ch00000090990000001193/index.m3u8
-##########################http://117.135.56.6:6060/cms001/ch00000090990000001490/index.m3u8
-##########################http://39.134.87.62/000000001000/5000000002000009455/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001193/index.m3u8
+##########################http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001490/index.m3u8
 #EXTINF:-1 tvg-id="1277" tvg-name="欢笑剧场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/hxjchd.png" group-title="上海",多彩文体(IPv6)
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001193/index.m3u8
 #EXTINF:-1 tvg-id="1273" tvg-name="法治天地" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/fztd.png" group-title="上海",法治天地
-http://117.135.56.6:6060/cms001/ch00000090990000001195/index.m3u8
-##########################http://117.135.56.6:6060/cms001/ch00000090990000001111/index.m3u8
-##########################http://39.134.87.62/000000001000/9001547084732463424/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001195/index.m3u8
+##########################http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001111/index.m3u8
 #EXTINF:-1 tvg-id="1273" tvg-name="法治天地" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/fztd.png" group-title="上海",法治天地(IPv6)
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001195/index.m3u8
 #EXTINF:-1 tvg-id="1276" tvg-name="全纪实" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/leyou.png" group-title="上海",乐游
-http://117.135.56.6:6060/cms001/ch00000090990000001200/index.m3u8
-##########################http://39.134.87.62/000000001000/5000000011000031112/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001200/index.m3u8
 #EXTINF:-1 tvg-id="1276" tvg-name="全纪实" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/leyou.png" group-title="上海",乐游(IPv6)
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001200/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="上海教育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shanghai6.png" group-title="上海",上海教育
-http://117.135.56.6:6060/cms001/ch00000090990000001268/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001268/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="上海教育" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shanghai6.png" group-title="上海",上海教育(IPv6)
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001268/index.m3u8
 #EXTINF:-1 tvg-id="1274" tvg-name="金色学堂" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jsxt.png" group-title="上海",金色学堂
-http://117.135.56.6:6060/cms001/ch00000090990000001194/index.m3u8
-##########################http://39.134.87.62/000000001000/5000000010000026105/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001194/index.m3u8
 #EXTINF:-1 tvg-id="1274" tvg-name="金色学堂" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jsxt.png" group-title="上海",金色学堂(IPv6)
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001194/index.m3u8
 #EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/hhxd.png" group-title="上海",哈哈炫动
-http://117.135.56.6:6060/cms001/ch00000090990000001232/index.m3u8
-##########################http://39.134.87.62/000000001000/5000000005000031641/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001232/index.m3u8
 #EXTINF:-1 tvg-id="62" tvg-name="哈哈炫动" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/hhxd.png" group-title="上海",哈哈炫动(IPv6)
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001232/index.m3u8
 #EXTINF:-1 tvg-id="1279" tvg-name="动漫秀场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/dmxc.png" group-title="上海",动漫秀场
-http://117.135.56.6:6060/cms001/ch00000090990000001196/index.m3u8
-##########################http://39.134.87.62/000000001000/5000000011000031113/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001196/index.m3u8
 #EXTINF:-1 tvg-id="1279" tvg-name="动漫秀场" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/dmxc.png" group-title="上海",动漫秀场(IPv6)
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001196/index.m3u8
 #EXTINF:-1 tvg-id="1283" tvg-name="游戏风云" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/yxfy.png" group-title="上海",游戏风云
-http://117.135.56.6:6060/cms001/ch00000090990000001192/index.m3u8
-##########################http://39.134.87.62/000000001000/5000000011000031114/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001192/index.m3u8
 #EXTINF:-1 tvg-id="1283" tvg-name="游戏风云" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/yxfy.png" group-title="上海",游戏风云(IPv6)
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001192/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="东方购物-1" tvg-logo="" group-title="上海",东方购物-1
-http://117.135.56.6:6060/cms001/ch00000090990000001039/index.m3u8
-##########################http://39.134.87.62/000000001000/5000000011000031124/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001039/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="东方购物-2" tvg-logo="" group-title="上海",东方购物-2
-http://117.135.56.6:6060/cms001/ch00000090990000001040/index.m3u8
-##########################http://39.134.87.62/000000001000/5000000011000031125/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001040/index.m3u8
 ####################################################################################################################################################################################
 
 
 ####################################################################################################################################################################################
 #EXTINF:-1 tvg-id="1874" tvg-name="BTV科教" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Beijing5.png" group-title="地方台",京-纪实科教
 #EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="地方台",京-卡酷少儿
-http://117.135.56.6:6060/cms001/ch00000090990000001245/index.m3u8
-##########################http://117.135.56.6:6060/cms001/ch00000090990000001228/index.m3u8
-##########################http://39.134.87.62/000000001000/7851974109718180595/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001245/index.m3u8
+##########################http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001228/index.m3u8
 #EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="地方台",京-卡酷少儿(IPv6)
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001245/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="北京淘电影" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/bjtdy.png" group-title="地方台",京-淘电影
@@ -616,15 +540,14 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001245/index.m3u8
 #EXTINF:-1 tvg-id="1675" tvg-name="武术世界" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/wssj.png" group-title="地方台",豫-武术世界
 #EXTINF:-1 tvg-id="1680" tvg-name="文物宝库" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/wwbk.png" group-title="地方台",豫-文物宝库
 #EXTINF:-1 tvg-id="1324" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方台",湘-金鹰纪实
-http://117.135.56.6:6060/cms001/ch00000090990000001230/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001230/index.m3u8
 #EXTINF:-1 tvg-id="1324" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方台",湘-金鹰纪实(IPv6)
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001230/index.m3u8
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jykt.png" group-title="地方台",湘-金鹰卡通
-http://117.135.56.6:6060/cms001/ch00000090990000001460/index.m3u8
-http://117.135.56.6:6060/cms001/ch00000090990000001098/index.m3u8
-##########################http://39.134.87.62/000000001000/5000000006000040024/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001460/index.m3u8
+##########################http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001098/index.m3u8
 #EXTINF:-1 tvg-id="1684" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="地方台",湘-快乐垂钓
-http://117.135.56.6:6060/cms001/ch00000090990000001235/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001235/index.m3u8
 #EXTINF:-1 tvg-id="1684" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="地方台",湘-快乐垂钓(IPv6)
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001235/index.m3u8
 #EXTINF:-1 tvg-id="1674" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="地方台",湘-茶频道
@@ -651,10 +574,8 @@ https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
 #EXTINF:-1 tvg-id="657" tvg-name="浙江经视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Zhejiang2.png" group-title="地方台",浙-浙江经济生活
 https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 #EXTINF:-1 tvg-id="658" tvg-name="浙江钱江都市" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Zhejiang1.png" group-title="地方台",浙-浙江钱江都市
-https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1 tvg-id="1434" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="地方台",粤-嘉佳卡通
-http://117.135.56.6:6060/cms001/ch00000090990000001227/index.m3u8
-##########################http://39.134.87.62/000000001000/4739906347743456369/index.m3u8
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001227/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong9.png" group-title="地方台",粤-广东珠江
 #EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong9.png" group-title="地方台",粤-广东珠江
 #EXTINF:-1 tvg-id="" tvg-name="广东新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong1.png" group-title="地方台",粤-广东新闻
