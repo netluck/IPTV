@@ -89,10 +89,10 @@ http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001226/index.m3u8
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001348/index.m3u8
 #EXTINF:-1 tvg-id="1670" tvg-name="早期教育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE33.jpg" group-title="央视-副",早期教育
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001680/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="央广购物-1" tvg-logo="https://logo.catvod.com/央广购物.png" group-title="央视-副",央广购物-1
+###########################EXTINF:-1 tvg-id="" tvg-name="央广购物-1" tvg-logo="https://logo.catvod.com/央广购物.png" group-title="央视-副",央广购物-1
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001142/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="央广购物-2" tvg-logo="https://logo.catvod.com/央广购物.png" group-title="央视-副",央广购物-2
-http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001420/index.m3u8
+##########################http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001420/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV中视购物" tvg-logo="" group-title="央视-副",CCTV中视购物
 ####################################################################################################################################################################################
 
@@ -180,9 +180,9 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001348/index.m3u8
 #EXTINF:-1 tvg-id="1670" tvg-name="早期教育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE33.jpg" group-title="央视-副(IPv6)",早期教育
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001680/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="央广购物-1" tvg-logo="https://logo.catvod.com/央广购物.png" group-title="央视-副(IPv6)",央广购物-1
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001142/index.m3u8
+##########################http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001142/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="央广购物-2" tvg-logo="https://logo.catvod.com/央广购物.png" group-title="央视-副(IPv6)",央广购物-2
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001420/index.m3u8
+##########################http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001420/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV中视购物" tvg-logo="" group-title="央视-副(IPv6)",CCTV中视购物
 ####################################################################################################################################################################################
 
