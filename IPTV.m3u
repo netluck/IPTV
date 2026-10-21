@@ -396,9 +396,9 @@ http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001641/index.m3u8
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001013/index.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Dongfang.png" group-title="上海",东方卫视(IPv6)
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001013/index.m3u8
-#EXTINF:-1 tvg-id="1284" tvg-name="上视新闻频道" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shanghai1.png" group-title="上海",新闻综合
+#EXTINF:-1 tvg-id="1284" tvg-name="上海新闻综合" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shanghai1.png" group-title="上海",新闻综合
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001014/index.m3u8
-#EXTINF:-1 tvg-id="1284" tvg-name="上视新闻频道" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shanghai1.png" group-title="上海",新闻综合(IPv6)
+#EXTINF:-1 tvg-id="1284" tvg-name="上海新闻综合" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Shanghai1.png" group-title="上海",新闻综合(IPv6)
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001014/index.m3u8
 #EXTINF:-1 tvg-id="1285" tvg-name="第一财经" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/dycj.png" group-title="上海",第一财经
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001017/index.m3u8
