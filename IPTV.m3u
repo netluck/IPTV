@@ -546,11 +546,16 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001230/index.m3u8
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jykt.png" group-title="地方台",湘-金鹰卡通
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001460/index.m3u8
 ##########################http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001098/index.m3u8
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jykt.png" group-title="地方台",湘-金鹰卡通(IPv6)
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001460/index.m3u8
 #EXTINF:-1 tvg-id="1684" tvg-name="快乐垂钓" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/klcd.png" group-title="地方台",湘-快乐垂钓
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001235/index.m3u8
 #EXTINF:-1 tvg-id="1684" tvg-name="快乐垂钓" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/klcd.png" group-title="地方台",湘-快乐垂钓(IPv6)
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001235/index.m3u8
 #EXTINF:-1 tvg-id="1674" tvg-name="茶频道" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/chapd.png" group-title="地方台",湘-茶频道
+http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001234/index.m3u8
+#EXTINF:-1 tvg-id="1674" tvg-name="茶频道" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/chapd.png" group-title="地方台",湘-茶频道(IPv6)
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001234/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="湖南经视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan1.png" group-title="地方台",湘-湖南经视
 #EXTINF:-1 tvg-id="" tvg-name="湖南都市" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan2.png" group-title="地方台",湘-湖南都市
 #EXTINF:-1 tvg-id="" tvg-name="湖南爱晚" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan3.png" group-title="地方台",湘-湖南爱晚
@@ -576,6 +581,8 @@ https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 #EXTINF:-1 tvg-id="658" tvg-name="浙江钱江都市" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Zhejiang1.png" group-title="地方台",浙-浙江钱江都市
 #EXTINF:-1 tvg-id="1434" tvg-name="嘉佳卡通" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jjkt.png" group-title="地方台",粤-嘉佳卡通
 http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001227/index.m3u8
+#EXTINF:-1 tvg-id="1434" tvg-name="嘉佳卡通" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jjkt.png" group-title="地方台",粤-嘉佳卡通(IPv6)
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001227/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong9.png" group-title="地方台",粤-广东珠江
 #EXTINF:-1 tvg-id="" tvg-name="广东珠江" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong9.png" group-title="地方台",粤-广东珠江
 #EXTINF:-1 tvg-id="" tvg-name="广东新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Guangdong1.png" group-title="地方台",粤-广东新闻
