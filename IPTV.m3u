@@ -553,9 +553,7 @@ http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001235/index.m3u8
 #EXTINF:-1 tvg-id="1684" tvg-name="快乐垂钓" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/klcd.png" group-title="地方台",湘-快乐垂钓(IPv6)
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001235/index.m3u8
 #EXTINF:-1 tvg-id="1674" tvg-name="茶频道" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/chapd.png" group-title="地方台",湘-茶频道
-http://iptvrr.sh.chinamobile.com:6060/cms001/ch00000090990000001234/index.m3u8
 #EXTINF:-1 tvg-id="1674" tvg-name="茶频道" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/chapd.png" group-title="地方台",湘-茶频道(IPv6)
-http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001234/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="湖南经视" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan1.png" group-title="地方台",湘-湖南经视
 #EXTINF:-1 tvg-id="" tvg-name="湖南都市" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan2.png" group-title="地方台",湘-湖南都市
 #EXTINF:-1 tvg-id="" tvg-name="湖南爱晚" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVLogo/main/img/Hunan3.png" group-title="地方台",湘-湖南爱晚
